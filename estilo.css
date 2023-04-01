@@ -67,7 +67,7 @@ main p {
     text-indent: 30px;
     line-height: 1.2em;
     font-size: 1.2em;
-    font-family: var(--fonte-destaque)
+    font-family: var(--fonte-padrao)
 
 }
 main ul li {
