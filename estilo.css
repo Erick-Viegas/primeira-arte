@@ -69,8 +69,9 @@ main p {
     font-size: 1.2em;
 
 }
-main ul {
+main ul li {
     font-size: 1.2em;
+    font-weight: bold;
 }
 main strong {
     color: var(--cor4);
@@ -78,24 +79,19 @@ main strong {
     
 }
 
+
+
 main a {
+    color:#010d7a;
     text-decoration: none;
-    font-weight: bold;
-    color: var(--cor5);
-    background-color: var(--cor1);
-    border-radius: 5px;
-    padding: 1px;
-    box-shadow: 0px 0px 7px black;
 }
 
 main a:hover {
+    color: #0058c4;
+    transition-duration: 0.5s;
     text-decoration: underline;
-    color: var(--cor0);
-    background-color: #1a5c37;
-transition-duration: 0.3s;
 
 }
-
 main img {
     width: 100%;
 }
