@@ -108,8 +108,12 @@ main h1 {
     font-family: var(--fonte-android);
 }
 
-main#titulo-spotify>h1 {
-    background-color: black;
+#titulo-spotify {
+    color: var(--cor5);
+    text-align: center; 
+    margin-top: -20px;
+    margin-bottom: 10px;
+    font-size: 2em;
 }
 div.video {
     background-color: black;
