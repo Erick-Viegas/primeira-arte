@@ -125,6 +125,12 @@ div.video>iframe {
     height: 90%;
 }
 
+div#video2{
+    background-color: black;
+    padding: 20px;
+    margin: 0px -20px 30px -20px;
+}
+
 ul > li > abbr{
  
  text-decoration:underline;
