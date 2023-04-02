@@ -108,7 +108,9 @@ main h1 {
     font-family: var(--fonte-android);
 }
 
-
+main#titulo-spotify>h1 {
+    background-color: black;
+}
 div.video {
     background-color: black;
     padding: 20px;
