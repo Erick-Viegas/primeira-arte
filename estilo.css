@@ -181,41 +181,35 @@ aside>ul {
     columns: 2;
 }
 
-p.final {
-    font-size: 1.1em;
-    padding: 10px;
-    text-indent: 10px;
-    background-image: linear-gradient(to right, var(--cor3), var(--cor0));
-    border-radius: 5px;
-    box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.5);
-    text-align: center;
-    font-weight: bolder;
-}
+
 
 footer {
     border-radius: 5px;
     
     
 }
-footer>p>a {
-    color: #464646;
-}
 footer>p {
 
-   
+   background-color: #a0a0a0;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    font-size: 1em;
+    position: relative;
+    margin-bottom: -15px;
+    padding: 5px;
+    margin-left: -20px;
+    }
+footer>p>a {
+    color: #464646;
     font-weight: bolder;
     color: black;
     text-align: center;
     font-size: 2em;
-
-
 }
 
-a.guanabara{
-    margin: 0px;
-    padding: 1px;
 
-}
+
 ::-webkit-scrollbar {
     width: 10px;
 }
