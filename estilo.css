@@ -114,6 +114,10 @@ main h1 {
     margin-top: -20px;
     margin-bottom: 10px;
     font-size: 2em;
+    background-color: rgba(128, 128, 128, 0.598);
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
 }
 div.video {
     background-color: black;
