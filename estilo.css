@@ -107,14 +107,24 @@ main h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
 }
-
+ h2#sobre-pa{
+    background-image: linear-gradient(to top, rgb(128, 128, 128), white);
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+    margin-top: 20px; 
+    color: #000752; 
+    margin-bottom: 10px;
+    text-align: center; 
+    font-size: 2em;
+ }
 #titulo-spotify {
     color: var(--cor5);
     text-align: center; 
     margin-top: -20px;
     margin-bottom: 10px;
     font-size: 2em;
-    background-color: rgba(128, 128, 128, 0.598);
+    background-image: linear-gradient(to top, rgb(128, 128, 128), white);
     margin-left: 30px;
     margin-right: 30px;
     border-radius: 10px;
