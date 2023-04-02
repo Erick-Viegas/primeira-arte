@@ -116,14 +116,14 @@ main h1 {
     color: #000752; 
     margin-bottom: 10px;
     text-align: center; 
-    font-size: 2em;
+    font-size: 1.5em;
  }
 #titulo-spotify {
     color: var(--cor5);
     text-align: center; 
     margin-top: -20px;
     margin-bottom: 10px;
-    font-size: 2em;
+    font-size: 1.5em;
     background-image: linear-gradient(to top, rgb(128, 128, 128), white);
     margin-left: 30px;
     margin-right: 30px;
