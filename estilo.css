@@ -166,16 +166,6 @@ aside {
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.527);
 }
 
-aside>h3 {
-
-    color: white;
-    margin: -10px -10px 0px -10px;
-    border-radius: 10px 10px 0px 0px;
-    padding: 10px;
-    text-indent: 10px;
-}
-
-
 footer {
     border-radius: 5px;
 
