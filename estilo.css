@@ -176,12 +176,6 @@ aside>h3 {
     background-image: linear-gradient(to right, var(--cor3), var(--cor0));
 }
 
-aside>ul {
-    list-style-position: inside;
-    columns: 2;
-}
-
-
 
 footer {
     border-radius: 5px;
