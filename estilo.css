@@ -69,15 +69,6 @@ main p {
     font-family: var(--fonte-padrao)
 
 }
-main ul li {
-    font-size: 1.2em;
-    font-weight: bold;
-}
-main strong {
-    color: var(--cor4);
-    font-weight: bold;
-    
-}
 
 
 
