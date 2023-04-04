@@ -69,6 +69,15 @@ main p {
     font-family: var(--fonte-padrao)
 
 }
+main ul li {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+main strong {
+    color: var(--cor4);
+    font-weight: bold;
+    
+}
 
 
 
@@ -89,17 +98,7 @@ main img {
     
 }
 
-main img.pequena {
-    max-width: 350px;
-    display: block;
-    margin: auto
-}
 
-main h1 {
-    color: var(--cor5);
-    font-family: var(--fonte-android);
-    text-shadow: 0px 0px 20px rgb(0, 0, 0);
-}
  h2#sobre-pa{
     background-image: linear-gradient(to bottom, rgb(128, 128, 128), white);
     margin-top: 20px; 
@@ -146,16 +145,6 @@ div#spotify{
     margin: 0px -20px 30px -20px;
 }
 
-ul > li > abbr{
- 
- text-decoration:underline;
-}
-aside {
-    background-color: var(--cor0);
-    padding: 10px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.527);
-}
 
 footer {
     border-radius: 5px;
