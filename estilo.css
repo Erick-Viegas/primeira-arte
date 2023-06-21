@@ -100,8 +100,8 @@ main img {
 
 
  h2#sobre-pa{
-    background-image: linear-gradient(to bottom, rgb(128, 128, 128), white);
-    margin-top: 20px; 
+    
+    margin-top: 10px; 
     color: #000752; 
     margin-bottom: 15px;
     text-align: center; 
@@ -116,11 +116,10 @@ main img {
     text-align: center; 
     margin-top: -30px;
     margin-bottom: 5px;
-    font-size: 2em;
-    background-image: linear-gradient(to bottom, rgb(128, 128, 128), white);
+    font-size: 1.7em;
     margin-left: -20px;
     margin-right: -20px;
-    padding: 3px;
+    padding: 10px;
     
 }
 div.video {
@@ -151,7 +150,7 @@ footer {
 
 }
 footer>p {
-    background-image: linear-gradient(to bottom, rgb(128, 128, 128), white);
+   
     font-weight: bolder;
     text-align: center;
     font-size: 1em;
@@ -167,7 +166,7 @@ footer>p>a {
     font-weight: bolder;
     color: var(--cor5);
     text-align: center;
-    font-size: 2em;
+    font-size: 1.2em;
     
 }
 footer>p>a:hover {
